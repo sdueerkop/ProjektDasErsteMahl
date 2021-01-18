@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="250"
+   height="964.59467"
+   viewBox="0 0 250 964.5947"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.0 r15299"
+   sodipodi:docname="loeffel.svg"
+   inkscape:export-filename="C:\Users\Liza\Dropbox\LisaDeusAustausch\unserBuch-DUMMIES_Junior\kindlich\kochen\images\kochloeffel.png"
+   inkscape:export-xdpi="15904.87"
+   inkscape:export-ydpi="15904.87">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-23.52731"
+     inkscape:cy="500.44968"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="3831"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     showguides="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:snap-bbox="true"
+     inkscape:snap-page="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(12.300704,923.5736)">
+    <path
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:136.20991516;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 107.46246,-923.5736 c -66.142805,0.007 -119.735575,74.53931 -119.763164,166.43903 0.04382,75.70292 38.887896,135.38612 87.659399,160.17753 7.976232,4.0541 18.491308,4.2881 17.190317,38.25134 L 71.146488,-0.53178053 C 70.264365,22.440245 89.71025,41.021072 112.69931,41.021072 c 22.98909,0 42.43491,-18.580827 41.55282,-41.55285253 L 132.84958,-558.7057 c -1.30099,-33.96313 9.21408,-34.19687 17.19035,-38.25134 48.77147,-24.79141 87.6155,-84.47461 87.65937,-160.17753 -0.0276,-91.89972 -53.62035,-166.43165 -119.76321,-166.43903 -1.74174,0.0733 -3.49918,0.16229 -5.23678,0.34028 -1.73755,-0.17799 -3.49499,-0.27223 -5.23685,-0.34028 z"
+       id="path4501"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
